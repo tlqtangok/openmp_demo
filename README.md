@@ -1,6 +1,11 @@
 # openmp_demo
 a demo for openmp , by Jidor
 
+this project initially created by one of my artical in GitChat. see the link page: 
+
+[OpenMP at GitChat](https://gitbook.cn/gitchat/activity/5c90f5e6eed4492881242cea)
+
+
 all examples can run by simply  `make run`
 
 more ref, please read: `https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf`
