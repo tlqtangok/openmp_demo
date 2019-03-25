@@ -4,6 +4,8 @@ a demo for openmp , by Jidor
 all examples can run by simply  `make run`
 
 more ref, please read: `https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf`
+## 00_dep
+demo of assertion for environment and dependencies.
 
 ## 01_parallel_cout
 demo parallel print out 
