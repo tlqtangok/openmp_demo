@@ -6,7 +6,7 @@ this project initially created by one of my artical in GitChat. see the link pag
 [OpenMP at GitChat](https://gitbook.cn/gitchat/activity/5c90f5e6eed4492881242cea)
 
 
-all examples can run by simply  `make run`
+all examples can run by command `make run`
 
 more ref, please read: `https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf`
 ## 00_dep
