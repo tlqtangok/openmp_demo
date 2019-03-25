@@ -26,7 +26,7 @@ demo atomic and barrier
 demo an advanced example
 
 
-## donate
+## donate && support
 最后，如果有帮助，谢谢支持和推广哦~
 
 
