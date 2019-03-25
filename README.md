@@ -27,7 +27,7 @@ demo an advanced example
 
 
 ## donate
-如果本项目对你有帮助，请支持我，让我更有动力提供更好的教程。谢谢！
+最后，如果有帮助，谢谢支持和推广哦~
 
 
 ![alipay_QR](./.img/alipay_jd_t.png)
